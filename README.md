@@ -11,5 +11,5 @@ You need to install the following requirements:
 - matplotlib
 - gensim
 - pickle
-- scikit-learn
+- scikit-learn\
 and python=3.9
