@@ -12,5 +12,5 @@ You need to install the following requirements:
 - gensim
 - pickle
 - scikit-learn\
-\
+
 And python=3.9
