@@ -10,7 +10,7 @@ You need to install the following requirements:
 - pandas
 - matplotlib
 - gensim
-- pickle
+- pickle5
 - scikit-learn
 
 and python=3.9
