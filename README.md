@@ -13,4 +13,4 @@ You need to install the following requirements:
 - pickle
 - scikit-learn\
 
-And python=3.9
+and python=3.9
