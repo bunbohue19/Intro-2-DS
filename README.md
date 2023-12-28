@@ -3,6 +3,8 @@ This is the implementation for the project: "Mining and classifying Vietnamese n
 
 in the range of the course: "IT4142E: Introduction to Data Science"
 
+![alt text]([http://url/to/img.png](https://s1cdn.vnecdn.net/vnexpress/restruct/i/v850/logo_default.jpg))
+
 You need to install the following requirements:
 - pyvi
 - tqdm
