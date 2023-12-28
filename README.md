@@ -1,5 +1,7 @@
 ![VNExpress Logo](https://github.com/bunbohue19/Intro2DS/blob/main/vnexpress.jpg)
+
 --------------------------------------------------------------------------------
+
 # Intro2DS
 This is the implementation for the project: "Mining and classifying Vietnamese news"
 
