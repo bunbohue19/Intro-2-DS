@@ -1,5 +1,5 @@
 # Intro2DS
-This is the implementation for the project: Mining and classifying Vietnamese news
+This is the implementation for the project: "Mining and classifying Vietnamese news"
 
 in the range of the course: "IT4142E: Introduction to Data Science"
 
